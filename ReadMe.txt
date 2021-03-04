@@ -1,5 +1,7 @@
 ***ONLY WORKS IN 1920x1080***
 
+Uses pixel scanners to see when full on resource and when cooldowns are ready.
+
 Keybinds (maybe add all keybind support when im not lazy)
 Skeleton Mage : Left Click
 Land Of The Dead : 2
